@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: epa-order-service
+    name: order-service
   profiles:
     active: dev
